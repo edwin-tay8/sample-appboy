@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445890180851",
+    "project_id": "awesomeproject-braze-test",
+    "storage_bucket": "awesomeproject-braze-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445890180851:android:c884eb34a3f4929c35a986",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU-w2H3mojy6xgp0dZ5sNjXu1BR9zXzLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
