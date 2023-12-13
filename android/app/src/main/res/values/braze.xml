@@ -8,5 +8,7 @@
 
   <bool translatable="false" name="com_appboy_firebase_cloud_messaging_registration_enabled">true</bool>
   <string translatable="false" name="com_appboy_firebase_cloud_messaging_sender_id">445890180851</string>
+
+  <integer name="com_braze_logger_initial_log_level">2</integer>
 </resources>
 
